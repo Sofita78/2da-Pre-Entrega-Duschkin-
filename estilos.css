@@ -33,15 +33,16 @@ a:hover {
 footer {
     text-align: center;
     margin-top: 20px;
-    background-color: rgba(255, 192, 203, 0.281);
+    background-color: rgb(241, 220, 234);
 }
 
-.redes {
+.redes .fa-brands  {
     text-align: center;
-    font-size: 45px;
-    justify-content: space-around;
-
+    font-size: 35px;
+    align-content: space-between;
 }
+
+
 
 .fa-sharp {
     height: 40px;
